@@ -52,3 +52,9 @@ text/source.android.com/source.android.com_security_apksigning_v4.txt
 text/source.android.com/source.android.com_security_enhancements.txt
 text/source.android.com/source.android.com_static_docs_compatibility_4.1_android-4.1-cdd.pdf.txt
 text/source.android.com/source.android.com_static_docs_compatibility_android-cdd.pdf.txt
+__pycache__/test_array_sort.cpython-310-pytest-7.1.2.pyc
+__pycache__/test_web_qa.cpython-310-pytest-7.1.2.pyc
+src/__pycache__/array_sort.cpython-310.pyc
+test/__pycache__/test_array_sort.cpython-310-pytest-7.1.2.pyc
+test/__pycache__/test_web_qa.cpython-310-pytest-7.1.2.pyc
+.vscode/settings.json
