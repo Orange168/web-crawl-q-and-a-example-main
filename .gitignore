@@ -58,3 +58,6 @@ src/__pycache__/array_sort.cpython-310.pyc
 test/__pycache__/test_array_sort.cpython-310-pytest-7.1.2.pyc
 test/__pycache__/test_web_qa.cpython-310-pytest-7.1.2.pyc
 .vscode/settings.json
+src/__pycache__/web_qa.cpython-310.pyc
+test/__pycache__/test_array_sort.cpython-310.pyc
+test/__pycache__/test_web_qa.cpython-310.pyc
